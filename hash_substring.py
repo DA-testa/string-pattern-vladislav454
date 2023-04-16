@@ -1,5 +1,5 @@
 B = 31
-Q = 1000211 # to avoid overflow
+Q = 10**9 + 9 # to avoid overflow
 
 def get_hash(s):
     hash_val = 0
